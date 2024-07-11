@@ -17,7 +17,7 @@ O script altera determinados textos em alguns parágrafos do DOCX padrão:
 
 Há uma tabela inserida dentro do arquivo que irá receber os itens constantes na notificação. Os nomes das colunas
 podem ser substituidos pelos nomes que o usuário precisar.
-Pode haver mais de um item por empresa(CPF ou CNPJ), cada um desses itens será inserido dentro da notificação
+Pode haver mais de um item por empresa(CPF ou CNPJ), cada um desses itens será inserido dentro da qnotificação
 da empresa, não é aconselável fazer mesclas no arquivo XLSX, os dados devem ser repetidos em todas as celulas e nem deve
 conter fórmulas.
 
